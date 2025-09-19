@@ -11,6 +11,7 @@ dependencies = [
     "numba>=0.61.2",
     "pandas>=2.3.2",
     "setuptools>=80.9.0",
+    "yfinance>=0.2.66",
 ]
 
 [tool.uv.sources]
