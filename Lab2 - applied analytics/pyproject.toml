@@ -9,4 +9,6 @@ dependencies = [
     "ipykernel>=6.30.1",
     "numpy>=2.3.3",
     "pandas>=2.3.2",
+    "pathos>=0.3.4",
+    "toolz>=1.0.0",
 ]
